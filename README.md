@@ -1,5 +1,5 @@
 # OmeleteStoreAPI
-A project to consume an API from Omelete Store
+<span>A project to consume an API from Omelete Store</span>
 
 <p>You can check on the gif bellow how it works:</p>
 <br/>
