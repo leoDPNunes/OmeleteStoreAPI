@@ -1,7 +1,8 @@
 # OmeleteStoreAPI
 A project to consume an API from Omelete Store
 
-<p>Show</p>
+<p>The Link bellow sho</p>
 ![gitHub](https://media3.giphy.com/media/ZZpEwewjBXfVY7jZ0H/giphy.gif)
-![](http://i.imgur.com/OUkLi.gif)
+
+<img src="http://i.imgur.com/OUkLi.gif" width="40" height="40" />
 
